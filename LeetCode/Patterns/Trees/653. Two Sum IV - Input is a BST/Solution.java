@@ -19,7 +19,6 @@ class Solution {
         HashSet<Integer> set = new HashSet<>();
         return solve(root, k, set);
     }
-
     public boolean solve(TreeNode root, int k, HashSet<Integer> set) {
         if (root == null) {
             return false;

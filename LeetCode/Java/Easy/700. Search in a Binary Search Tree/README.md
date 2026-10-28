@@ -1,6 +1,6 @@
 # 📝 700. Search in a Binary Search Tree (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+🔗 [Problem Link](https://leetcode.com/problems/search-in-a-binary-search-tree)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 

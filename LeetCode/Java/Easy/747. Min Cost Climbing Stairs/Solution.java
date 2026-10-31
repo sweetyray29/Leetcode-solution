@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     int fun(int[] cost, int idx, int[] dp) {
         if (idx >= cost.length) {
@@ -17,7 +18,7 @@ class Solution {
     public int minCostClimbingStairs(int[] cost) {
         int n = cost.length;
         int[] dp = new int[n];
-        java.util.Arrays.fill(dp, -1);
+        Arrays.fill(dp, -1);
 
         return Math.min(
             fun(cost, 0, dp),

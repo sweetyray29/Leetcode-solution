@@ -1,4 +1,3 @@
-
 class Solution {
     List<List<Integer>> ans = new ArrayList<>();
     void find(int[] arr, int idx, ArrayList<Integer> al) {

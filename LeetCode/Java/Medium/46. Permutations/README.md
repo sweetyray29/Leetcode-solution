@@ -8,8 +8,8 @@
 Array, Backtracking
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 2 ms
+- **Memory:** 45.2 MB
 
 ---
 
@@ -17,7 +17,7 @@ Array, Backtracking
 
 Given an array  `nums`  of distinct integers, return all the possible permutations. You can return the answer in  **any order** .
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [1,2,3]

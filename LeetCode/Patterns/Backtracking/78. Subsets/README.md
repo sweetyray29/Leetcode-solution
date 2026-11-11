@@ -8,8 +8,8 @@
 Array, Backtracking, Bit Manipulation
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1 ms
+- **Memory:** 43.6 MB
 
 ---
 
@@ -19,7 +19,7 @@ Given an integer array  `nums`  of  **unique**  elements, return  *all possible*
 
 The solution set  **must not**  contain duplicate subsets. Return the solution in  **any order** .
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [1,2,3]
